@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Vinícius Rodrigues
+## Olá! Eu sou Vinícius Rodrigues
 
 Sou formado em Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software e análise de dados.
 

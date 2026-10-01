@@ -42,13 +42,6 @@ Formado em Análise e Desenvolvimento de Sistemas (IESB), construindo carreira e
 - **[Fórmula 1 – Banco de Dados SQL](https://github.com/viniciusdevrr/formula1-database)** — Modelagem relacional em MySQL com Stored Procedures, Triggers e Functions.
 - **[Automação de Cadastro de Produtos](https://github.com/viniciusdevrr/automacao-cadastro-produtos)** — Automação em Python com Pandas e PyAutoGUI.
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusdevrr&show_icons=true&theme=default&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdevrr&layout=compact&hide_border=true" height="150" alt="Top Languages"/>
-</p>
-
 ---
 
 Aberto a oportunidades em TI — vamos conversar? [E-mail](mailto:viniciusdub8@gmail.com) · [LinkedIn](https://linkedin.com/in/viniciusrodriguesdf)

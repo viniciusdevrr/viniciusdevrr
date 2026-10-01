@@ -32,7 +32,7 @@ Formado em Análise e Desenvolvimento de Sistemas (IESB), construindo carreira e
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-**Atualmente aprendendo:** IA Generativa, Agentes de IA e automação com N8N (Bootcamp Bradesco – GenAI, Dados & Cyber)
+**Atualmente aprendendo:** Python, Pandas, Visualização de Dados e Machine Learning / FastAPI, SQL, JWT e PWA)
 
 ## Projetos em destaque
 

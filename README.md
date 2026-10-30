@@ -32,7 +32,7 @@ Formado em Análise e Desenvolvimento de Sistemas (IESB), construindo carreira e
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-**Foco atual de aprofundamento:** Arquitetura Limpa, testes automatizados (Pytest), pipelines de dados e integração de Agentes de IA.
+**Foco atual de aprofundamento:** Python, Pandas, Numpy, Visualização de Dados / FastAPI, SQL, JWT e Arquitetura Limpa.
 
 ## Projetos em Destaque
 
